@@ -13,6 +13,6 @@
 * Uninstall reverse FK controller error while entry lock mode, disable the tool or set keyframe
 
 ## 1.1.0:
-* Add "fill keyframe" function, can generate keyframe for all deform bone between the controller's two keyframe, add hot key 'shift + k'
+* Add "Bake Keyframe" function, can generate keyframe for all deform bone between the controller's two keyframe, add hot key 'shift + k'
 * Change the hot key of set keyframe to 'K'
-* Make the "IK follow" and "fill keyframe" function only show in IK mode
+* Make the "IK follow" and "Bake Keyframee" function only show in IK mode
