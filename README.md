@@ -41,6 +41,7 @@ Mouse click(default it right, can change in panel): select most close controller
 Double click: in IK/FK mode hide or show the closest controller so it can't be select, in lock mode hide or show all deform bone with custom controller
 </br>
 ![image](https://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/double_click.gif)
+![image](https://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/lock_mode_double_click.gif)
 
 Shift+ click: install fixed controller
 </br>
@@ -52,7 +53,7 @@ Ctrl + click: uninstall fixed controller
 
 X: switch FK/IK mode
 </br>
-![image](https://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/switch_fix_mode.gif)
+![image](https://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/switch_IK_FK.gif)
 
 R / G: switch to FK mode if in IK mode and then rotate / switch to IK mode if in FK mode and then move
 </br>
