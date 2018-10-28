@@ -11,7 +11,7 @@ Pose the model like playing the toy in real time!!!  No more time waste rigging 
 ## How to use it
 
 In FK mode: you can rotate controller, and set FK chain by a set fixed controller
-![image](http://github.com/Frank-Li-Code/Real-time_ToyRig/blob/master/images/install.gif)
+![install](http://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/install.gif)
 
 In IK mode: you can set IK by set fixed controller, and then move the controller, and you can set reverse FK by fixed two ends controller and select the controller you want to rotate, the front fixed controller will be pivot.
 ![image](http://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/FK_fixed.gif)
