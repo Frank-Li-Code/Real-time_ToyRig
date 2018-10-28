@@ -11,7 +11,7 @@ Pose the model like playing the toy in real time!!!  No more time waste rigging 
 ## How to use it
 Install: like other addon no different
 </br>
-![install](http://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/install.gif)
+<img src="http://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/install.gif" width="70" />
 In FK mode: you can rotate controller, and set FK chain by a set fixed controller
 </br>
 ![image](http://github.com/Frank-Li-Code/Real-time_ToyRig/raw/master/images/FK_fixed.gif)
